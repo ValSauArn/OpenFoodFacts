@@ -1,4 +1,4 @@
-# OpenFoodFacts
+# OpenFoodFacts [Notebook](https://github.com/ValSauArn/OpenFoodFacts/blob/main/open_food_facts.ipynb)
 Demonstrate ability to clean and prepare a dataset, formulate interesting questions and answering them by exploring relationships between variables. 
 
 The Open Food Facts project is a collaborative, free and open food database gathering information and data on food products from around the world. While the project originated in France in 2012, it has since been extended worldwide. Contributions to the database can be entered by anyone, based on information explicitely shown on food packages. These info include:
